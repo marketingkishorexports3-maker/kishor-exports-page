@@ -109,7 +109,7 @@ export const SUPPLIERS = [
     name: "Kishor Exports · Global Distribution",
     stage: "brand_retail",
     stage_label: "Retailer",
-    address: "Netherlands",
+    address: "Shop No. 350, Sector-1, T.P. Nagar, Agra, Uttar Pradesh, India",
     certifications: [],
     sub_label: "Brand",
   },
