@@ -109,7 +109,7 @@ export const SUPPLIERS = [
     name: "Kishor Exports · Global Distribution",
     stage: "brand_retail",
     stage_label: "Retailer",
-    address: "Netherlands",
+    address: "Shop No. 350, Sector-1, T.P. Nagar, Agra, Uttar Pradesh, India",
     certifications: [],
     sub_label: "Brand",
   },
@@ -129,5 +129,5 @@ export const MAP_MARKERS = [
   { id: "D3", label: "D3", lat: 9.851, lng: 76.751, stage: "Trims — Latex", name: "Signature Foam Pvt. Ltd.", address: "Velliyamattom, Kerala, India", color: "#0f1b3d" },
   { id: "E", label: "E", lat: 27.205, lng: 77.981, stage: "Packaging", name: "Vibhuti Packers", address: "Shop No. 350, Sector-1, T.P. Nagar, Agra, Uttar Pradesh, India", color: "#3b6fa0" },
   { id: "F", label: "F", lat: 23.489, lng: 85.474, stage: "CMT", name: "Kishor Exports", address: "Plot No. E,F,G Kulhi Industrial Area Ormanjhi, Ranchi-835219 (Jharkhand), India", color: "#0f1b3d" },
-  { id: "G", label: "G", lat: 52.1326, lng: 5.2913, zoom: 7, stage: "Retailer", name: "Kishor Exports · Global Distribution", address: "Netherlands", color: "#0f1b3d" },
+  { id: "G", label: "G", lat: 27.205, lng: 77.981, zoom: 12, stage: "Retailer", name: "Kishor Exports · Global Distribution", address: "Shop No. 350, Sector-1, T.P. Nagar, Agra, Uttar Pradesh, India", color: "#0f1b3d" },
 ];
